@@ -1,0 +1,1 @@
+Swap UPS in MES closet.  Will do same day as [[CPE Network Move]]

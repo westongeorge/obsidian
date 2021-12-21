@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "6d6f5600f2567355",
+    "type": "split",
+    "children": [
+      {
+        "id": "e60c9e448e540ce5",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8dca78dd848e904e",
+    "type": "split",
+    "children": [
+      {
+        "id": "357785d44472e6b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ea9ca1072bf7818",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "642a1e6b12223cd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "414b6d62ffe9f4d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7872486f57ffa22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f88beaa03579055e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "e60c9e448e540ce5",
+  "lastOpenFiles": [
+    "ACLs on core switch.md",
+    "Security Projects.md",
+    "Incident Response Plan.md",
+    "Random things to look into.md",
+    "Ongoing projects.md",
+    "RITA.md",
+    "powerbeams.md",
+    "MAC Project.md",
+    "Set up internal canary token server.md",
+    "sophos config for endpoint.md"
+  ]
+}
