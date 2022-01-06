@@ -7,8 +7,11 @@
         "id": "e60c9e448e540ce5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "BHIS Assessment.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BHIS Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +87,7 @@
   },
   "active": "e60c9e448e540ce5",
   "lastOpenFiles": [
+    "BHIS Assessment.md",
     "ACLs on core switch.md",
     "Security Projects.md",
     "Incident Response Plan.md",
@@ -91,7 +96,6 @@
     "RITA.md",
     "powerbeams.md",
     "MAC Project.md",
-    "Set up internal canary token server.md",
-    "sophos config for endpoint.md"
+    "Set up internal canary token server.md"
   ]
 }
