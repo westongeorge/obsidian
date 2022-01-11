@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e60c9e448e540ce5",
+        "id": "21adcd4166628056",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "BHIS Assessment.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BHIS Assessment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,10 +81,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e60c9e448e540ce5",
+  "active": "21adcd4166628056",
   "lastOpenFiles": [
-    "BHIS Assessment.md",
     "ACLs on core switch.md",
+    "BHIS Assessment.md",
     "Security Projects.md",
     "Incident Response Plan.md",
     "Random things to look into.md",
