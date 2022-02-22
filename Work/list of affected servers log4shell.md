@@ -1,5 +1,5 @@
 #security 
 (x) Papercut
-() VMWare VCenter
+(x) VMWare VCenter
 (x) Unifi
 (x) Security Onion

@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ACLs on core switch.md",
-            "mode": "source"
+            "file": "RITA.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACLs on core switch.md",
+                "file": "RITA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "21adcd4166628056",
   "lastOpenFiles": [
-    "ACLs on core switch.md",
-    "BHIS Assessment.md",
-    "Security Projects.md",
-    "Incident Response Plan.md",
-    "Random things to look into.md",
-    "Ongoing projects.md",
     "RITA.md",
-    "powerbeams.md",
-    "MAC Project.md",
-    "Set up internal canary token server.md"
+    "tmux.md",
+    "Security Projects.md",
+    "list of affected servers log4shell.md",
+    "log4shell detection and mitigation.md",
+    "ACLs on core switch.md",
+    "Applocker Hardening.md",
+    "Set up internal canary token server.md",
+    "Ongoing projects.md",
+    "Command Helpers.md"
   ]
 }

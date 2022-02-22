@@ -2,10 +2,11 @@
 ~~Prevent RDP student > servers~~
 ~~Prevent SSH student and staff > servers~~
 ~~Prevent RDP staff > 10.x~~
-Allow student 445 > 192.168.30.13 192.168.30.73
-Allow staff 445 > 192.168.30.13 192.168.30.135 192.168.30.73
-Allow VPN 445 > 192.168.30.13 192.168.30.135 192.168.30.73
-Block all other 192.x/172.x 445 to server ranges
+~~Allow student 445 > 192.168.30.13 192.168.30.73~~
+~~Allow staff 445 > 192.168.30.13 192.168.30.135 192.168.30.73~~
+~~Allow VPN 445 > 192.168.30.13 192.168.30.135 192.168.30.73~~
+~~Block all other 192.x/172.x 445 to server ranges~~
+Block 10.x <-> 192.x RDP, 443, etc?
 
 
 
