@@ -1,6 +1,0 @@
-- Disconnect Fiber
-- ~Get maintenance to mount rack and get power near it~
-- move fiber and run new cables
-- remove old equipment from current rack
-- mount equipment in new rack
-- connect cables

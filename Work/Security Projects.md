@@ -9,3 +9,4 @@
 ~~Block RDP files through email~~ done
 Block server access to uncategorized sites
 [[Applocker Hardening]]
+[[Burp Suite Notes]]

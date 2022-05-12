@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21adcd4166628056",
+        "id": "f9be443e4a1375de",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "RITA.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RITA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +81,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "21adcd4166628056",
+  "active": "f9be443e4a1375de",
   "lastOpenFiles": [
-    "RITA.md",
-    "tmux.md",
-    "Security Projects.md",
-    "list of affected servers log4shell.md",
+    "CPE Network Move.md",
     "log4shell detection and mitigation.md",
-    "ACLs on core switch.md",
-    "Applocker Hardening.md",
-    "Set up internal canary token server.md",
+    "Random things to look into.md",
+    "RITA.md",
+    "Security Projects.md",
     "Ongoing projects.md",
-    "Command Helpers.md"
+    "Burp Suite Notes.md",
+    "list of affected servers log4shell.md",
+    "tmux.md",
+    "ACLs on core switch.md"
   ]
 }
